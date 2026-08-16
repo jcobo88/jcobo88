@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jonathan Cobo
 
-<!--
-**jcobo88/jcobo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building hands-on experience in IT support, systems administration,
+networking, and cybersecurity.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA IT Operations Specialist
+- CompTIA Secure Infrastructure Specialist
+
+## Currently Learning
+
+- PowerShell
+- Active Directory
+- Windows Server
+- Group Policy
+- Microsoft 365
+- Microsoft Entra ID
+- Intune
+- Wireshark
+- Linux
+
+## Home Lab Projects
+
+Projects will be added here as I build and document my IT home lab.
+
+## Career Focus
+
+I'm focused on building practical experience in IT support,
+networking, systems administration, and cybersecurity.
