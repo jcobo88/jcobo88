@@ -10,6 +10,7 @@ networking, and cybersecurity.
 - CompTIA Security+
 - CompTIA IT Operations Specialist
 - CompTIA Secure Infrastructure Specialist
+- Studying for CCNA
 
 ## Currently Learning
 
