@@ -27,8 +27,3 @@ networking, and cybersecurity.
 ## Home Lab Projects
 
 Projects will be added here as I build and document my IT home lab.
-
-## Career Focus
-
-I'm focused on building practical experience in IT support,
-networking, systems administration, and cybersecurity.
