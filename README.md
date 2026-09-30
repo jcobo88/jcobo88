@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan Cobo
 
-I'm building hands-on experience in IT support, systems administration,
+I'm building hands on experience in IT support, systems administration,
 networking, and cybersecurity.
 
 ## Certifications
